@@ -1,0 +1,4 @@
+<?php
+
+/******Adding comment ***************/
+phpinfo();
